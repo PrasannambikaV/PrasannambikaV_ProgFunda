@@ -2,19 +2,19 @@ package com.gradedproject.q1;
 
 public class SuperDepartment
 {
-    public String departmentName()
+    public static String departmentName()
     {
         return "Super Department";
     }
-    public String getTodaysWork()
+    public static String getTodaysWork()
     {
         return "No work as of now";
     }
-    public String getWorkDeadline()
+    public static String getWorkDeadline()
     {
         return "Nil";
     }
-    public String isTodayAHoliday()
+    public static String isTodayAHoliday()
     {
         return "Today is not a holiday";
     }
