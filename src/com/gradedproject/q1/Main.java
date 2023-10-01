@@ -77,7 +77,7 @@ class TechDepartment extends SuperDepartment
     }
 }
 public class Main {
-    public static void main(String[] args)
+    public static void main(String args[])
     {
         AdminDepartment ad = new AdminDepartment();
         HrDepartment hr = new HrDepartment();
