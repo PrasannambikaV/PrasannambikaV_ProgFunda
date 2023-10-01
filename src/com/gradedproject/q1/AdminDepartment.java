@@ -7,7 +7,6 @@ public class AdminDepartment {
     }
     public static String getTodaysWork()
     {
-
         return "Complete your document submission";
     }
     public static String getWorkDeadline()
